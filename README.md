@@ -10,6 +10,7 @@ Welcome to the LangChain Playground repository! This repo contains all the code 
 4. **Chains**
 5. **RAG (Retrieval-Augmented Generation)**
 6. **Agents & Tools**
+7. **LangGraph**
 
 ## Getting Started
 
@@ -108,12 +109,16 @@ Explore the technologies like documents, embeddings, and vector stores that enab
 
 Learn about agents, how they work, and how to build custom tools to enhance their capabilities.
 
+### 5. LangGraph
+- `1_city_weather.py`
+
+Learn about LangGraph, how it works, and how to leverage its central concept—state management—to enhance its capabilities. Learn how to build and optimize stateful workflows for more powerful and flexible applications.
+
 ## How to Use This Repository
 
-1. **Watch the Video:** Start by watching the LangChain Master Class for Beginners video on YouTube at 2X speed for a high-level overview.
+1. **Run the Code Examples:** Follow along with the code examples provided in this repository. Each section in the video corresponds to a folder in this repo.
 
-2. **Run the Code Examples:** Follow along with the code examples provided in this repository. Each section in the video corresponds to a folder in this repo.
-
+2. **Experiment with the Code:** Modify and experiment with the code to deepen your understanding. Try changing parameters, adding new features, or applying the concepts to different scenarios.
 
 ## Comprehensive Documentation
 
