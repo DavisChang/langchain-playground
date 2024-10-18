@@ -79,7 +79,7 @@ Understand the basics of prompt templates and how to use them effectively.
 
 Learn how to create chains using Chat Models and Prompts to automate tasks.
 
-### 4. RAG (Retrieval-Augmented Generation)
+### 4. RAG (Retrieval-Augmented Generation) - Ollama Embeddings
 
 - `1a_rag_basics.py`
 - `1b_rag_basics.py`
